@@ -1,9 +1,9 @@
 ## Hi there 👋
 
+팀페이지 작성중이니깐 고양이나 보고가세욤..
+
 ![무제 2](https://github.com/GenieService/.github/assets/4531508/378fca1d-a76e-4a26-858c-f429419ae9e7)
 
-
-팀페이지 작성중이니깐 고양이나 보고가세욤..
 
 <!--
 
